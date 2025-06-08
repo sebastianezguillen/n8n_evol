@@ -22,4 +22,4 @@ services:
       - key: CONFIG_SESSION_PHONE_VERSION
         value: 2.3000.1023204200
     ports:
-      - 8080
+      - 8081
